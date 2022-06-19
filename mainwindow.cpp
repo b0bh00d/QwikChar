@@ -1,8 +1,3 @@
-// https://www.reddit.com/r/windows/comments/p6h6bh/i_made_a_concept_for_a_character_selector_by/
-// https://en.wikipedia.org/wiki/List_of_Unicode_characters
-// https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
-// https://stackoverflow.com/questions/1220820/how-do-i-send-key-strokes-to-a-window-without-having-to-activate-it-using-window
-
 #include <QDir>
 #include <QMap>
 #include <QTimer>
